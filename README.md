@@ -39,8 +39,8 @@ Tested on both Windows 10 and Windows 11.
 <br>
 <br>
 <p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
+| 📺 <a href="https://www.youtube.com/channel/UCkoYsPX7KdWl-hzsuvs7ByQ">My YouTube Channel</a>
+| 🌍 <a href="">My Website</a> | <br>
 </p>
 
 # Snake_Slash_SRC
