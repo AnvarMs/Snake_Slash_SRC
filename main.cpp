@@ -189,7 +189,7 @@ public:
 
     void CheckCollisionWhithEdges(){
 
-        if(snake.body[0].x==cellCount || snake.body[0].y == -1){
+        if(snake.body[0].x==cellCount || snake.body[0].x == -1){
             GameOver();
         }
         if(snake.body[0].y==cellCount || snake.body[0].y== -1){
